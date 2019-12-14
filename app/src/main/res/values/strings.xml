@@ -26,4 +26,7 @@
     <string name="timeFormatHours">%1$d hours ago</string>
     <string name="timeFormatDay">Yesterday</string>
     <string name="timeFormatDays">%1$d days ago</string>
+
+    <string name="score"> - </string>
+    <string name="pending">Pending...</string>
 </resources>

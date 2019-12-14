@@ -27,4 +27,7 @@
     <string name="timeFormatHours">Hace %1$d horas</string>
     <string name="timeFormatDay">Ayer</string>
     <string name="timeFormatDays">Hace %1$d días</string>
+
+    <string name="score"> - </string>
+    <string name="pending">Pendiente...</string>
 </resources>
