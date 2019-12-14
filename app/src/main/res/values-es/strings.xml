@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prueba Sunbelt</string>
+
+    <!-- FIREBASE SIGN IN MSGS -->
+    <string name="sign_in_cancelled">Inicio de sesión cancelado</string>
+    <string name="no_internet_connection">No tienes acceso a internet</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="app_description">Ejemplo Noticias</string>
+    <string name="brand_logo">Logo</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_sources">Fuentes</string>
+    <string name="title_news">Noticias</string>
+    <string name="title_account">Cuenta</string>
+
+    <string name="default_profile_name">John Doe</string>
+    <string name="default_profile_email">john.doe@sunbeltfactory.com</string>
+    <string name="close_sesion">Cerrar Sesión</string>
+</resources>

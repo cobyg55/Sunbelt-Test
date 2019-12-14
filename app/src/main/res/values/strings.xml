@@ -12,4 +12,8 @@
     <string name="title_sources">Sources</string>
     <string name="title_news">News</string>
     <string name="title_account">Account</string>
+
+    <string name="default_profile_name">John Doe</string>
+    <string name="default_profile_email">john.doe@sunbeltfactory.com</string>
+    <string name="close_sesion">Logout</string>
 </resources>
