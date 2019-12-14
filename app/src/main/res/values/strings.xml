@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sunbelt Test</string>
+
+    <!-- FIREBASE SIGN IN MSGS -->
+    <string name="sign_in_cancelled">Login cancelled</string>
+    <string name="no_internet_connection">Not internet connection</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="app_description">News Example</string>
+    <string name="brand_logo">Brand Logo</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_sources">Sources</string>
+    <string name="title_news">News</string>
+    <string name="title_account">Account</string>
+</resources>
