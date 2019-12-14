@@ -17,4 +17,14 @@
     <string name="default_profile_name">John Doe</string>
     <string name="default_profile_email">john.doe@sunbeltfactory.com</string>
     <string name="close_sesion">Cerrar Sesión</string>
+
+    <string name="timeFormatToday">Hoy %1$s</string>
+    <string name="timeFormatTomorrow">Mañana %1$s</string>
+    <string name="timeFormatNow">Justo ahora</string>
+    <string name="timeFormatMinute">Hace un minuto</string>
+    <string name="timeFormatMinutes">Hace %1$d minutos</string>
+    <string name="timeFormatHour">Hace una hora</string>
+    <string name="timeFormatHours">Hace %1$d horas</string>
+    <string name="timeFormatDay">Ayer</string>
+    <string name="timeFormatDays">Hace %1$d días</string>
 </resources>
